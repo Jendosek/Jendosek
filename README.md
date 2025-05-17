@@ -62,3 +62,4 @@
 <img src="https://raw.githubusercontent.com/Jendosek/Jendosek/output/snake.svg" alt="Snake animation" />
 
 ###
+
