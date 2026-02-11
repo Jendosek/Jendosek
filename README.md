@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Evhenii! 👋<br><br>I am a passionate Software Developer from Vinnytsia, Ukraine. I focus on building high-performance cross-platform mobile applications using Flutter and interactive web interfaces with React.<br><br>- 🔭 I’m currently working on Fullstack mobile & web solutions.<br>- 🌱 I’m currently deepening my knowledge in ASP.NET Core & Clean Architecture.<br>- 🎓 Student at IT STEP Academy & Vinnytsia Technical Vocational College.<br>- ⚡ Fun fact: I love combining creative UI with robust backend logic.
+Hi there, I'm Yevhenii! 👋<br><br>I am a passionate Software Developer from Vinnytsia, Ukraine. I focus on building high-performance cross-platform mobile applications using Flutter and interactive web interfaces with React.<br><br>- 🔭 I’m currently working on Fullstack mobile & web solutions.<br>- 🌱 I’m currently deepening my knowledge in ASP.NET Core & Clean Architecture.<br>- 🎓 Student at IT STEP Academy & Vinnytsia Technical Vocational College.<br>- ⚡ Fun fact: I love combining creative UI with robust backend logic.
 
 
 ## 🌐 Socials:
