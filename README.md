@@ -1,5 +1,4 @@
 # 💫 About Me
-
 Full Stack Developer focused on building performant web apps and cross-platform mobile solutions. I work across the entire stack — from responsive UI with React and React Native to backend logic with Node.js and PostgreSQL.
 
 - 🚀 Shipped production-ready projects: food delivery web app, cross-platform mobile app, and a team travel booking platform
