@@ -1,5 +1,12 @@
-# 💫 About Me:
-Hi there, I'm Yevhenii! 👋<br><br>I am a passionate Software Developer from Vinnytsia, Ukraine. I focus on building high-performance cross-platform mobile applications using Flutter and interactive web interfaces with React.<br><br>- 🔭 I’m currently working on Fullstack mobile & web solutions.<br>- 🌱 I’m currently deepening my knowledge in ASP.NET Core & Clean Architecture.<br>- 🎓 Student at IT STEP Academy & Vinnytsia Technical Vocational College.<br>- ⚡ Fun fact: I love combining creative UI with robust backend logic.
+# 💫 About Me
+
+Full Stack Developer focused on building performant web apps and cross-platform mobile solutions. I work across the entire stack — from responsive UI with React and React Native to backend logic with Node.js and PostgreSQL.
+
+- 🚀 Shipped production-ready projects: food delivery web app, cross-platform mobile app, and a team travel booking platform
+- 🛠️ Core stack: React · React Native · TypeScript · Node.js · PostgreSQL · REST API
+- 🤝 Comfortable working in teams — experienced with GitFlow, Jira, and collaborative code review
+- 🎓 Studying at IT STEP Academy & Vinnytsia Technical Vocational College
+- 📍 Vinnytsia, Ukraine
 
 
 ## 🌐 Socials:
